@@ -28,7 +28,7 @@ Manually browsing job listings to collect lead data is slow and unscalable. This
 wttj_scraper/
 ├── wttj_scraper.py     # Main scraper script
 ├── results.csv         # Output file (auto-generated)
-└── README.md           # This file
+└── README.md         
 ```
 
 ---
